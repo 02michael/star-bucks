@@ -145,6 +145,7 @@ header nav{
     border-radius: 30px;
     border: none;
     margin-top: 20px;
+    cursor: pointer;
 }
 .arrows{
     position: absolute;
